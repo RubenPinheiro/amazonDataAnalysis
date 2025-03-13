@@ -22,5 +22,4 @@ This repository contains an exploratory data analysis (EDA) on Amazon customer d
 - Top-Selling Categories: Understanding which categories drive the most revenue allows businesses to optimize inventory and marketing strategies.
 - Customer Loyalty: Identifying repeat customers and their purchasing habits helps in designing loyalty programs.
 - Seasonality Trends: Insights into peak shopping periods aid in stock planning and promotional campaigns.
-
-Sentiment Analysis on Reviews: Assessing customer feedback can guide product improvements and customer service enhancements
+- Sentiment Analysis on Reviews: Assessing customer feedback can guide product improvements and customer service enhancements
